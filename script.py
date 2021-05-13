@@ -47,7 +47,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @PredatorHackerzZ_bot"
+    UPGRADE_TEXT = "PING at @marathirockerzbots"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
