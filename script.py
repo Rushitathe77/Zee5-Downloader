@@ -1,12 +1,12 @@
 class script(object):
 
-    START_TEXT = """<b>Hello🙏 ,
+    START_TEXT = """<b>नमस्मे🙏 ,
     
-This is A simple Zee5 link downloader bot With Permanent Thumbnail Support💯. 
+मि आहे तुम्हा सगळ्यांची प्रिय झी 5 डाऊनलोडर बोट. 
 
-Please send me any Zee5 link, I can upload it to telegram as File/Video.
+आणि मला बनवल आहे श्री @rushitathe77 यांनी.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TeleRoid14 !
+माझ्यात काही समस्या आढळल्या तर सामील व्हा @marathirockrzbots !
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -22,9 +22,9 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """🛑<b>My Name : @TeleRoid_Zee5_Bot</b>
+    ABOUT_TEXT = """🛑<b>My Name : @</b>
 
-⭕️<b>Creator :</b> @PredatorHackerzZ_bot
+⭕️<b>Creator :</b> @rushitathe77
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
