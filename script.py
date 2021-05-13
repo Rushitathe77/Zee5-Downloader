@@ -65,7 +65,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     NO_THUMB = "SAD😔 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TeleRoid14</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @marathirockerzbots</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
