@@ -22,7 +22,7 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """🛑<b>My Name : @</b>
+    ABOUT_TEXT = """🛑<b>My Name : @marathirockerzee5dl_bot</b>
 
 ⭕️<b>Creator :</b> @rushitathe77
 
@@ -30,11 +30,11 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/P-Phreak/Zee5-Downloader'>Click Here</a>
+⭕️<b>Source Code :</b> 👉 <a href='https://github.com/Rushitathe77/Zee5-Downloader'>Click Here</a>
 
-⭕<b>Support Group :</b> <a href='https://t.me/TeleRoid14'> Check Here </a>
+⭕<b>Channle :</b> <a href='https://t.me/marathirockerzbots'> Check Here </a>
 
-⭕<b> TeleRoid Botlist :</b> @TheTeleRoid
+⭕<b> MarathiRockerz Botlist :</b> @marathirockerzbots
 """
 
 
@@ -61,7 +61,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TeleRoidGroup\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@marathirockerzbots\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SAD😔 No saved thumbnails Found!!"
     
