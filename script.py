@@ -6,7 +6,7 @@ class script(object):
 
 आणि मला बनवल आहे श्री @rushitathe77 यांनी.
 
-माझ्यात काही समस्या आढळल्या तर सामील व्हा @marathirockrzbots !
+माझ्यात काही समस्या आढळल्या तर सामील व्हा @marathirockerzbots !
 
 Click <i>/help</i> for more details....</b>"""
 
