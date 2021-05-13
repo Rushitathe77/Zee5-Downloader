@@ -1,5 +1,5 @@
 ## Zee5 Downloader
-If you find any bugs, report at @TeleRoid14
+If you find any bugs, report at @marathirockerzbots
 
 **My Features**:
 
@@ -12,7 +12,7 @@ If you find any bugs, report at @TeleRoid14
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/P-Phreak/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Rushitathe77/Zee5-Downloader)
 
 #### Run in your VPS
 
